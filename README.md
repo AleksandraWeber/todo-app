@@ -33,7 +33,7 @@ The app should be running on `http://localhost:3000/`
 
 <hr/>
 
-Prepare build version
+Prepare prod version
 
 ```bash
 npm run build
