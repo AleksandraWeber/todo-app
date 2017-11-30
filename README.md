@@ -13,9 +13,9 @@ materializecss.com - [link](http://materializecss.com/)
 ## Installation
 
 ```bash
-git clone https://github.com/AleksandraWeber/todo-react-app.git
+git clone https://github.com/AleksandraWeber/todo-app.git
 or
-git clone git@github.com:AleksandraWeber/todo-react-app.git
+git clone git@github.com:AleksandraWeber/todo-app.git
 cd todo-react-app
 npm install
 ```
