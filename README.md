@@ -1,5 +1,8 @@
 # REACT / REDUX / REACT ROUTER TODO APP with BACKEND
 DEMO - [link](https://portfolio5.aleksandra-weber.pl/)
+Dane do logowania:
+login: ola
+hasło: ola.1234
 
 # BACKEND
 mockapi.io - [link](https://5a1ea4a41dc90f0012802221.mockapi.io/api/todo-v1/todo)
