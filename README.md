@@ -16,7 +16,7 @@ materializecss.com - [link](http://materializecss.com/)
 git clone https://github.com/AleksandraWeber/todo-app.git
 or
 git clone git@github.com:AleksandraWeber/todo-app.git
-cd todo-react-app
+cd todo-app
 npm install
 ```
 
